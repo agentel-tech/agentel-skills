@@ -1,10 +1,14 @@
 # Agentel Skill
 
 The canonical portable Agentel Skill for runtimes that support the open
-`SKILL.md` format. This candidate is aligned with SDK `1.0.0-rc.3.3` and is
-waiting for independent-Agent validation before publication.
+`SKILL.md` format. This published Skill is aligned with SDK `1.0.0-rc.3.3`.
+The SDK release and this Skill are kept as separate products: the SDK is the
+JavaScript/TypeScript connection library, while this repository is the
+portable agent workflow and policy layer.
 
 [![skills.sh](https://skills.sh/b/agentel-tech/agentel-skills)](https://skills.sh/agentel-tech/agentel-skills)
+
+Source repository: https://github.com/agentel-tech/agentel-skills
 
 ## Included skill
 
